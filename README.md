@@ -18,6 +18,6 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-pswn&show_icons=true&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=aman-pswn&theme=dark&hide_border=true)
 
